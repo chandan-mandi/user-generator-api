@@ -54,6 +54,9 @@ module.exports.updateBulkUser = (req, res, next) => {
         newData.id = newUserId;
         newData.name = newUser.name;
         newData.gender = newUser.gender;
+        newData.contact = newUser.contact;
+        newData.address = newUser.address;
+        newData.photoUrl = newUser.photoUrl;
         users.push(newData);
     }
     res.send(users);
