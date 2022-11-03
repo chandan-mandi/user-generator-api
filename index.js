@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 // ROUTES
-app.use("/api/v1/users", usersRoutes);
+app.use("/api/v1/user", usersRoutes);
 
 app.all('*', (req, res) => {
     res.send("No Route Found!");
