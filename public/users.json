@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "name": "Chandan",
+        "contact": 8918308609,
+        "address": "Betragarh, Paratal",
+        "photoUrl": "https://i.ibb.co/dbg2G1Q/1642359447115-2.png"
+    },
+    {
+        "id": 2,
+        "gender": "female",
+        "name": "Riya",
+        "contact": 9732137848,
+        "address": "Betragarh, Paratal",
+        "photoUrl": "https://i.ibb.co/dbg2G1Q/1642359447115-2.png"
+    },
+    {
+        "id": 3,
+        "gender": "male",
+        "name": "Sanjoy",
+        "contact": 8918308609,
+        "address": "Betragarh, Paratal",
+        "photoUrl": "https://i.ibb.co/dbg2G1Q/1642359447115-2.png"
+    },
+    {
+        "id": 4,
+        "gender": "male",
+        "name": "Sanjoy",
+        "contact": 8918308609,
+        "address": "Betragarh, Paratal",
+        "photoUrl": "https://i.ibb.co/dbg2G1Q/1642359447115-2.png"
+    },
+    {
+        "id": 5,
+        "gender": "male",
+        "name": "Sanjoy",
+        "contact": 8918308609,
+        "address": "Betragarh, Paratal",
+        "photoUrl": "https://i.ibb.co/dbg2G1Q/1642359447115-2.png"
+    },
+    {
+        "id": 6,
+        "gender": "male",
+        "name": "Sanjoy",
+        "contact": 8918308609,
+        "address": "Betragarh, Paratal",
+        "photoUrl": "https://i.ibb.co/dbg2G1Q/1642359447115-2.png"
+    },
+    {
+        "id": 7,
+        "gender": "male",
+        "name": "Sanjoy",
+        "contact": 8918308609,
+        "address": "Betragarh, Paratal",
+        "photoUrl": "https://i.ibb.co/dbg2G1Q/1642359447115-2.png"
+    },
+    {
+        "id": 8,
+        "gender": "male",
+        "name": "Sanjoy",
+        "contact": 8918308609,
+        "address": "Betragarh, Paratal",
+        "photoUrl": "https://i.ibb.co/dbg2G1Q/1642359447115-2.png"
+    }
+]
